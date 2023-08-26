@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "test.h": "c",
+        "loopback.h": "c",
+        "ether_tap.h": "c",
+        "tcp.h": "c",
+        "ip.h": "c",
+        "net.h": "c",
+        "icmp.h": "c",
+        "util.h": "c",
+        "sock.h": "c"
+    }
+}
